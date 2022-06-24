@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Calligraffitti', cursive;
+}
+
+.img-index {
+    width: 20%;
+}
+
+/* .contenedor-card {
+    width: 40%;
+} */
+
+
+.bg-color {
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+
+/* @media screen and (max-width:480px){
+
+}
+     */
